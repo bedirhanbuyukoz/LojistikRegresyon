@@ -1,1 +1,2 @@
-# LojistikRegresyon
+# LojistikRegresyon 
+1
